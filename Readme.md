@@ -22,15 +22,20 @@ The boring UML you are accustomed. Class diagrams, entity relationship diagrams 
 
 
 ## Level 1 - Global Context
-![NIAEFEUP Projects Documentation: Global Context](/.eraser/bdOlDO4GMuVX5jMxB72f___JgRubg6B61bS5T2ZoN1LqHN6cjB2___---figure---R3QHAPuwN3fQgrzkbb6M4---figure---tskqQXGShkie8S80P_E9Yg.png "NIAEFEUP Projects Documentation: Global Context")
+![NIAEFEUP Projects Documentation: Global Context](/.eraser/bdOlDO4GMuVX5jMxB72f___JgRubg6B61bS5T2ZoN1LqHN6cjB2___---figure---l-epvack3AR0nTGZEFHhE---figure---tskqQXGShkie8S80P_E9Yg.png "NIAEFEUP Projects Documentation: Global Context")
 
 ### Legend
-<>
+##### System developed/maintain by NIAEFEUP
+![Red](/.eraser/bdOlDO4GMuVX5jMxB72f___JgRubg6B61bS5T2ZoN1LqHN6cjB2___---figure---yFwmWCh3TGrKnNeL1-PGL---figure---BLbls27kPfI-76lYuy2VJA.png "Red")
 
+##### External System
+![Gray](/.eraser/bdOlDO4GMuVX5jMxB72f___JgRubg6B61bS5T2ZoN1LqHN6cjB2___---figure---sUq4yOr3_fumkj59o8oK0---figure---RkJD13gm0Wwa9LSonq-Low.png "Gray")
 
+##### People
+![People](/.eraser/bdOlDO4GMuVX5jMxB72f___JgRubg6B61bS5T2ZoN1LqHN6cjB2___---figure---W-dNYfjaFOxNqSsNwr0XB---figure---j7mc6oLPibSuuaD8iJaqnQ.png "People")
 
 ### Level 2 hyperlinks
-<>
++ 
 
 
 
